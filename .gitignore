@@ -1,0 +1,5 @@
+mongo/data/
+
+frontend/app/dist/
+*.log
+
